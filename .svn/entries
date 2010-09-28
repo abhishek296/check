@@ -1,0 +1,94 @@
+8
+
+dir
+167
+svn+ssh://pmarcos@cs193p.dyndns.org/svn/CS193P/trunk/Lectures/Lecture18-UnitTestingRuntimeLoc/Landscape
+svn+ssh://pmarcos@cs193p.dyndns.org/svn/CS193P
+
+
+
+2009-06-29T23:48:20.604539Z
+78
+evandoll
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9e53c42-d698-4390-a87f-1a53175b09d0
+
+main.m
+file
+
+
+
+
+2009-07-12T14:31:12.000000Z
+3f0c84c7a0251e3697ddc7083f3fcb5a
+2009-06-29T23:48:20.604539Z
+78
+evandoll
+
+Landscape_Prefix.pch
+file
+
+
+
+
+2009-07-12T14:31:12.000000Z
+a0e7b1a3100f5c8af7622903a9569d65
+2009-06-29T23:48:20.604539Z
+78
+evandoll
+
+Landscape.xcodeproj
+dir
+
+LandscapeViewController.xib
+file
+
+
+
+
+2009-07-12T14:31:12.000000Z
+756b51eeeb6722d78cd9fdfd5b20b158
+2009-06-29T23:48:20.604539Z
+78
+evandoll
+
+Classes
+dir
+
+Landscape-Info.plist
+file
+
+
+
+
+2009-07-12T14:31:12.000000Z
+3499bfaddd567835f44f830ea23d86f6
+2009-06-29T23:48:20.604539Z
+78
+evandoll
+
+MainWindow.xib
+file
+
+
+
+
+2009-07-12T14:31:12.000000Z
+1df0912ee7ab4f23ec0dbf404d99280c
+2009-06-29T23:48:20.604539Z
+78
+evandoll
+
